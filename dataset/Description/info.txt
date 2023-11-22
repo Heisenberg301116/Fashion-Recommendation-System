@@ -1,0 +1,230 @@
+======================================================================================================================================================================================
+Shirt:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image: 'Images/shirt/<Image name>'
+
+Brand: <any random value from set: {'Adidas', 'Nike', 'Puma', 'Lyra', 'Peter England', 'Zara', 'Calvin Klein', 'Express', 'Arrow', 'Raymond', 'Levi's'}>
+
+Type: 'Shirt'
+
+Size: Size: <any random value from set {'S', 'M', 'L', 'XL', XXL'}>
+
+Color: <any random value from set {'Red', 'Blue', 'Green', 'Pink', 'Yellow', 'Purple', 'Navy', 'Black', 'Maroon', 'White', 'Grey'}>
+
+Regional Existence: <any random value from set {'North India', 'South India', 'North East India', 'West India', 'Punjab', 'Haryana', 'Kerala', 'Tamil Nadu', 'Gujarat and Rajasthan', 'Kashmir, Himachal and Uttarakhand', 'Kerala and Tamil Nadu', 'All over India'}>
+
+Gender: <any random value from set {'Male', 'Female', 'Unisex'}>
+
+Body Type: <any random value from set {'Slim', 'Athletic/Muscular', 'Regular' 'Tall', 'Short'}>
+
+Occasion: <any random value from set {'Casual', 'Business-Casual', 'Formal', 'Special Events', 'Cultural and Festive Celebrations', 'Travel', 'Outdoor Activities'}>
+
+Price: <any random value ranging from integer Rs 150 to Rs 1700>
+
+Age: <any random value from set {'less than 15 years', '15-20 years' '20-30 years', 'above 30 years', 'above 50 years'}>
+
+Style: <any random value from set {'Dress Shirt', 'Button-Down Shirt', 'Polo Shirt', 'Check Shirt', 'Plain Shirt'}>
+
+Sleeves: <any random value from set {'Long sleeved', 'Sleeveless'}>
+
+Rating: <any floating value from 2 to 5>
+======================================================================================================================================================================================
+t-shirt:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image: 'Images/t-shirt/<Image name>'
+
+Brand: <any random value from set: {'Adidas', 'Nike', 'Puma', 'Lyra', 'Jack & Jones', 'Zara', 'Calvin Klein', 'Roadster', 'Wildcraft', 'Wrogn', 'Levi's'}>
+
+Type: 'T-Shirt'
+
+Size: Size: <any random value from set {'S', 'M', 'L', 'XL', XXL'}>
+
+Color: <any random value from set {'Red', 'Blue', 'Green', 'Pink', 'Yellow', 'Purple', 'Navy', 'Black', 'Maroon', 'White', 'Grey'}>
+
+Regional Existence: <any random value from set {'North India', 'South India', 'North East India', 'West India', 'All over India'}>
+
+Gender: <any random value from set {'Male', 'Female', 'Unisex'}>
+
+Body Type: <any random value from set {'Slim', 'Athletic/Muscular', 'Regular' 'Tall', 'Short'}>
+
+Occasion: <any random value from set {'Casual', 'Business-Casual', 'Formal', 'Special Events', 'Cultural and Festive Celebrations', 'Travel', 'Outdoor Activities'}>
+
+Price: <any random value ranging from integer Rs 200 to Rs 800>
+
+Age: <any random value from set {'less than 15 years', '15-20 years' '20-30 years', 'above 30 years', 'above 50 years'}>
+
+Style: <any random value from set {'Crew Neck T-Shirt', 'V-Neck T-Shirt', 'Scoop Neck T-Shirt', 'Baseball T-Shirt', 'One-Shoulder T-Shirt', 'Tie-Front T-Shirt', }>
+
+Sleeves: <any random value from set {'Long sleeved', Half-sleeved'}>
+
+Rating: <any floating value from 1 to 5>
+======================================================================================================================================================================================
+Hat:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image: 'Images/hat/<Image name>'
+
+Brand: <any random value from set: {'Adidas', 'Nike', 'Columbia', 'Patagonia', 'Brixton', 'Converse', 'Khalsa Store', 'Mohanlal Sons', 'Woodland', 'FabIndia'}>
+
+Type: 'Hat'
+
+Size: <any random value from set {'S', 'M', 'L'}>
+
+Color: <any random value from set {'Red', 'Blue', 'Green', 'Pink', 'Yellow', 'Purple', 'Navy', 'Black', 'Maroon', 'White', 'Grey'}>
+
+Regional Existence: <any random value from set {'North India', 'South India', 'North East India', 'West India', 'Punjab', 'Haryana', 'Kerala', 'Tamil Nadu', 'Gujarat and Rajasthan', 'Kashmir, Himachal and Uttarakhand', 'Kerala and Tamil Nadu', 'All over India'}>
+
+Gender: <any random value from set {'Male', 'Female', 'Unisex'}>
+
+Body Type: <any random value from set {'Oval Face', 'Round Face', 'Square Face' 'Heart-Shaped Face', 'Long Face', 'Triangular Face'}>
+
+Occasion: <any random value from set {'Religious and Cultural Ceremonies', 'Weddings and Celebrations', 'Festivals and Parades', 'Outdoor Activities', 'Protection from the Elements', 'Fashion', 'Special Events'}>
+
+Price: <any random value ranging from integer Rs 50 to Rs 900>
+
+Age: <any random value from set {'less than 15 years', '15-20 years' '20-30 years', 'above 30 years', 'above 50 years'}>
+
+Style: <any random value from set {'Phari (Kullu) Cap', 'Topi', 'Rajasthani Pag', 'Bamboo Hat', 'Mukut', 'Turban(Pagdi)'}>
+
+Rating: <any floating value from 1 to 5>
+======================================================================================================================================================================================
+Shoes:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image: 'Images/shoes/<Image name>'
+
+Brand: <any random value from set: {'Adidas', 'Nike', 'Bata', 'Puma', 'Aadi', 'Woodland', 'Red Chief', 'Paragon', 'Woodland', 'Sparx'}>
+
+Type: 'Shoes'
+
+Size: <any subset from set {4,5,6,7,8,9,10,11,12,13}>
+
+Color: <any random value from set {'Red', 'Blue', 'Green', 'Pink', 'Yellow', 'Purple', 'Navy', 'Black', 'Brown', 'White', 'Grey', 'Multi-Colored'}>
+
+Regional Existence: <any random value from set {'North India', 'South India', 'North East India', 'West India', 'Punjab', 'Haryana', 'Kerala', 'Tamil Nadu', 'Gujarat and Rajasthan', 'Kashmir, Himachal and Uttarakhand', 'Kerala and Tamil Nadu', 'Central India', 'All over India'}>
+
+Gender: <any random value from set {'Male', 'Female', 'Unisex'}>
+
+Body Type: <any random value from set {'Normal/Neutral Arch', 'Low Arch/Flat Fee', 'High Arch' 'Wide Feet', 'Narrow Feet', 'Pronation (Inward Rolling)'}>
+
+Occasion: <any random value from set {'Religious and Cultural Ceremonies', 'Weddings and Celebrations', 'Festivals and Parades', 'Outdoor Activities', 'Protection from the Elements', 'Fashion', 'Special Events'}>
+
+Price: <any random value ranging from integer Rs 300 to Rs 2690>
+
+Age: <any random value from set {'less than 15 years', '15-20 years' '20-30 years', 'above 30 years', 'above 50 years'}>
+
+Style: <any random value from set {'Sneakers', 'Running Shoes', 'Athletic Shoes', 'Basketball Shoes', 'Tennis Shoes', 'Football/Soccer Cleats', 'Hiking Boots/Shoes', 'Loafers', 'Cowboy Boots'}>
+
+Rating: <any floating value from 1 to 5>
+======================================================================================================================================================================================
+Outwear:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image: 'Images/outwear/<Image name>'
+
+Brand: <any random value from set: {'Patagonia', 'Allen Solly', 'Monte Carlo', 'Park Avenue', 'Pepe Jeans', 'Zara', 'Calvin Klein', 'Roadster', 'Wildcraft', 'Wrogn', 'Levi's'}>
+
+Type: 'Outwear'
+
+Size: Size: <any random value from set {'S', 'M', 'L', 'XL', XXL'}>
+
+Color: <any random value from set {'Red', 'Blue', 'Green', 'Pink', 'Yellow', 'Purple', 'Navy', 'Black', 'Maroon', 'White', 'Grey'}>
+
+Regional Existence: <any random value from set {'North India', 'South India', 'North East India', 'West India', 'All over India'}>
+
+Gender: <any random value from set {'Male', 'Female', 'Unisex'}>
+
+Body Type: <any random value from set {'Slim', 'Athletic/Muscular', 'Regular' 'Tall', 'Short'}>
+
+Occasion: <any random value from set {'Casual', 'Business-Casual', 'Formal', 'Special Events', 'Cultural and Festive Celebrations', 'Travel', 'Outdoor Activities', 'Winter Season'}>
+
+Price: <any random value ranging from integer Rs 700 to Rs 3000>
+
+Age: <any random value from set {'less than 15 years', '15-20 years' '20-30 years', 'above 30 years', 'above 50 years'}>
+
+Style: <any random value from set {'Crew Neck T-Shirt', 'V-Neck T-Shirt', 'Scoop Neck T-Shirt', 'Baseball T-Shirt', 'One-Shoulder T-Shirt', 'Tie-Front T-Shirt', }>
+
+Sleeves: <any random value from set {'Long sleeved', 'Sleeveless'}>
+
+Rating: <any floating value from 1 to 5>
+======================================================================================================================================================================================
+Pants:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image: 'Images/pants/<Image name>'
+
+Brand: <any random value from set: {'Mango', 'Allen Solly', 'Pantaloons', 'Blackberrys', 'Raymond', 'Louis Philippe', 'Levi's', 'Arrow', 'Wrangler', 'Van Heusen'}>
+
+Type: 'Pants'
+
+Size: Size: <any random subset from set {28, 30, 32, 34, 36, 38, 40, 42}>
+
+Color: <any random value from set { 'Red', 'Blue', 'Navy', 'Black', 'White', 'Grey' }>
+
+Regional Existence: <any random value from set { 'North India', 'South India', 'North East India', 'West India', 'All over India' }>
+
+Gender: <any random value from set { 'Male', 'Female', 'Unisex' }>
+
+Body Type: <any random value from set { 'Slim', 'Athletic/Muscular', 'Regular' 'Tall', 'Short' }>
+
+Occasion: <any random value from set { 'Casual', 'Business-Casual', 'Formal', 'Special Events', 'Cultural and Festive Celebrations', 'Travel', 'Outdoor Activities','Winter Season' }>
+
+Price: <any random value ranging from integer Rs 300 to Rs 1500 >
+
+Age: <any random value from set { 'less than 15 years', '15-20 years' '20-30 years', 'above 30 years', 'above 50 years' }>
+
+Style: <any random value from set { 'Straight-Leg Pants', 'Slim Fit Pants', 'Bootcut Pants', 'Palazzo Pants', 'High-Waisted Pants', 'Flared Pants', }>
+
+Rating: <any floating value from 1 to 5 >
+======================================================================================================================================================================================
+Shorts:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image: 'Images/shorts/<Image name>'
+
+Brand: <any random value from set: {'Puma', 'Nike', 'Adidas', 'Wrogns', 'HRX by Hrithik Roshan', 'Roadster', 'Levi's', 'Reebok'}>
+
+Type: 'Shorts'
+
+Size: Size: <any random subset from set {28, 30, 32, 34, 36, 38, 40, 42}>
+
+Color: <any random value from set { 'Red', 'Blue', 'Navy', 'Black', 'White', 'Grey' }>
+
+Regional Existence: <any random value from set { 'North India', 'South India', 'North East India', 'West India', 'All over India' }>
+
+Gender: <any random value from set { 'Male', 'Female', 'Unisex' }>
+
+Body Type: <any random value from set { 'Slim', 'Athletic/Muscular', 'Regular' 'Tall', 'Short' }>
+
+Occasion: <any random value from set { 'Casual', 'Outdoor Activities', 'Sports'}>
+
+Price: <any random value ranging from integer Rs 150 to Rs 600 >
+
+Age: <any random value from set { 'less than 15 years', '15-20 years' '20-30 years', 'above 30 years', 'above 50 years' }>
+
+Style: <any random value from set { 'Denim Shorts', 'Chino Shorts', 'Bermuda Shorts', 'Cargo Shorts', 'Athletic Shorts', 'High-Waisted Shorts', 'Cycling Shorts'}>
+
+Rating: <any floating value from 2 to 5 >
+======================================================================================================================================================================================
+Skirt:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image: 'Images/skirt/<Image name>'
+
+Brand: <any random value from set: {'Forever 21', 'Zara', 'H&M', 'Mango', 'FabIndia', 'Biba', 'Levi's', 'Reebok', 'Allen Solly'}>
+
+Type: 'Skirts'
+
+Size: Size: <any random subset from set {28, 30, 32, 34, 36, 38, 40, 42}>
+
+Color: <any random value from set {'Red', 'Blue', 'Green', 'Pink', 'Yellow', 'Purple', 'Navy', 'Black', 'Maroon', 'White', 'Grey'}>
+
+Regional Existence: <any random value from set { 'North India', 'South India', 'West India', 'Central India', 'All over India' }>
+
+Gender: <any random value from set { 'Female'}>
+
+Body Type: <any random value from set { 'Apple Body Type', 'Pear Body Type', 'Hourglass Body Type' 'Rectangle Body Type', 'Inverted Triangle Body Type', 'Tall Body Type'}>
+
+Occasion: <any random value from set { 'Casual', 'Vacation', 'Outdoor Gatherings', 'Dates and events', 'Parties or Celebrations, 'Traveling', 'Cultural Events'}>
+
+Price: <any random value ranging from integer Rs 450 to Rs 1000 >
+
+Age: <any random value from set { 'less than 15 years', '15-20 years' '20-30 years', 'above 30 years', 'above 50 years' }>
+
+Style: <any random value from set { 'A-Line Skirt', 'Pencil Skirt', 'Wrap Skirt', 'Maxi Skirt', 'Midi Skirt', 'Flared Skirt', 'High-Low Skirt'}>
+
+Rating: <any floating value from 2 to 5 >
